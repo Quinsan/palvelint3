@@ -2,10 +2,10 @@
 Palvelinten hallinta kurssin tehtävä 3.
 
 Tehtävän tekemiseen käytetty virtuaalikonetta:
-⋅⋅*VirtualBox
-⋅⋅*2 prosessoriydintä
-⋅⋅*4 GB muistia
-⋅⋅*20GB levytilaa
+⋅⋅* VirtualBox
+⋅⋅* 2 prosessoriydintä
+⋅⋅* 4 GB muistia
+⋅⋅* 20GB levytilaa
 
 Tehtävä kirjoitettu käyttäen MarkDownia ja nano kirjoitusohjelmaa
 Muotoilua muutettu artikkelin https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet ohjeilla
