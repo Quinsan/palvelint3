@@ -30,3 +30,8 @@ Kuvassa näkyy myös kirjoittamani teksti, jota en ole lisännyt addilla, rivill
 
 Tämän jälkeen tallensin tiedoston, ja tein uuden commitin varmuuden vuoksi, jonka jälkeen kokeilin tehdä tiedostoon tyhmää muutosta.
 
+Kirjoitin tiedostoon tekstin "TYHMÄ MUUTOS TÄHÄN", ja lisäsin sen versionhallintaan. Tämän jälkeen annoin komennon git reset --hard, joka ei kysellyt mitään, vaan teki käskettyään, ja ilmoitti että HEAD on nyt versionumerossa 292b679, joka on commit, jonka tein ennen tyhmää muutosta kommentilla Added text up to silly change.
+
+#Uusi salt- moduli
+
+
