@@ -36,6 +36,11 @@ Tämän jälkeen tallensin tiedoston, ja tein uuden commitin varmuuden vuoksi, j
 
 Kirjoitin tiedostoon tekstin "TYHMÄ MUUTOS TÄHÄN", ja lisäsin sen versionhallintaan. Tämän jälkeen annoin komennon git reset --hard, joka ei kysellyt mitään, vaan teki käskettyään, ja ilmoitti että HEAD on nyt versionumerossa 292b679, joka on commit, jonka tein ennen tyhmää muutosta kommentilla Added text up to silly change.
 
-#Uusi salt- moduli
+Lisäsin ja committasin tiedoston tässä välissä, ja vein sen GitHubiin komennolla git push. Osoite oli sama mistä se oli kloonattu, joten kysyttiin GitHub käyttäjänimeä ja salasanaa, jolla pushataan, jotka annoin. Siirto onnistui ilman virheilmoituksia, ja raportti näkyi GitHubissa.
+Tein vielä muutaman muutoksen selaimen kautta tiedostoon, ja kokeilin myös git pull komentoa, joka kertoi, että tiedostossa oli muutoksia, ja kuinka monta, ja että uusi tiedosto koneella on nyt se netistä pullattu.
+
+# Uusi salt- moduli
+
+Sitten tein uuden Salt- modulin, jossa asensin orjalle 
 
 
