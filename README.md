@@ -41,6 +41,15 @@ Tein vielä muutaman muutoksen selaimen kautta tiedostoon, ja kokeilin myös git
 
 # Uusi salt- moduli
 
-Sitten tein uuden Salt- modulin, jossa asensin orjalle 
+Sitten tein uuden Salt- modulin, jossa asensin orjalle htop seurantaohjelman, ja muutin sen perusasetuksia artikkelin https://haydenjames.io/htop-quick-guide-customization/ mukaiseen muotoon.
+Tässä ilmeisesti hyvät asetukset palvelinten admineille. Tein uuden kansion /srv/salt/htop, jonne tiedoston init.sls;
+
+kuva 4
+
+ajoin tilan;
+
+kuva 5
+
+Tämä asensi htop ohjelman, ja muutti sen ulkonäköä, missä järjestyskessä tiedot ovat, mitä näytetään ja miten.
 
 
