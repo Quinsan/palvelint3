@@ -1,5 +1,4 @@
 # palvelint3
-======
 Palvelinten hallinta kurssin tehtävä 3.
 
 Tehtävän tekemiseen käytetty virtuaalikonetta:
@@ -12,7 +11,6 @@ Tehtävä kirjoitettu käyttäen MarkDownia ja nano kirjoitusohjelmaa, kuvat lö
 Muotoilua muutettu artikkelin https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet ohjeilla
 
 # Git
-======
 Loin tehtävälle uuden repositorion README:lla, ja kloonasin sen virtuaalikoneelle kansioon gitstuff.
 Kloonattuun repoon siirryin cd palvelint3, ja lähdin muokkaamaan README.md tiedostoa.
 
